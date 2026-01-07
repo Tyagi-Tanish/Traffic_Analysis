@@ -23,6 +23,5 @@ It analyzes traffic accident data to identify **high-risk areas**, **major cause
 - Streamlit
 - Data Analysis & Visualization
 
----
 
-## 📂 Project Structure
+
